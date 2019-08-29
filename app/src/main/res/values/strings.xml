@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Tele-Health</string>
+
+    <!-- Halaman Splash -->
+    <string name="copyright">&#9400; IT Project 2018</string>
+    <!-- Halaman Splash -->
+
+    <!-- Halaman Beranda -->
+    <string name="judul">Beranda</string>
+    <string name="ttl1">- Tele-Health -</string>
+    <string name="ttl2">- Patients Monitoring System -</string>
+    <string name="dj">Detak Jantung</string>
+    <string name="sb">Suhu Tubuh</string>
+    <string name="kl">Keluar</string>
+    <!-- Halaman Beranda -->
+
+    <!-- Halaman Suhu Tubuh -->
+    <string name="btnsb">Baca Lebih Detail Tentang Suhu Tubuh</string>
+    <string name="suhu">Suhu Tubuh</string>
+    <string name="usia">Usia</string>
+    <string name="judulsuhu">Suhu Tubuh Normal Manusia Menurut Usia</string>
+    <string name="u1">3 Bulan</string>
+    <string name="u2">6 Bulan</string>
+    <string name="u3">1 Tahun</string>
+    <string name="u4">3 Tahun</string>
+    <string name="u5">5 Tahun</string>
+    <string name="u6">7 Tahun</string>
+    <string name="u7">9 Tahun</string>
+    <string name="u8">11 Tahun</string>
+    <string name="u9">13 Tahun</string>
+    <string name="u10">Dewasa</string>
+    <string name="u11">>70 Tahun</string>
+    <string name="s1">37,5 ºC</string>
+    <string name="s2">37,5 ºC</string>
+    <string name="s3">37,7 ºC</string>
+    <string name="s4">37,2 ºC</string>
+    <string name="s5">37,0 ºC</string>
+    <string name="s6">36,8 ºC</string>
+    <string name="s7">36,7 ºC</string>
+    <string name="s8">36,7 ºC</string>
+    <string name="s9">36,6 ºC</string>
+    <string name="s10">36,4 ºC</string>
+    <string name="s11">36,0 ºC</string>
+    <!-- Halaman Suhu Tubuh -->
+
+    <!-- Halaman Suhu Tubuh -->
+    <string name="btndj">Baca Lebih Detail Tentang Detak Jantung</string>
+    <string name="juduldj">Detak Jantung Normal Manusia Menurut Usia</string>
+    <string name="htdj">Rata-Rata Detak Jantung</string>
+    <string name="sd">s/d</string>
+    <string name="menit">Menit</string>
+    <string name="slash">/</string>
+    <string name="a1">20 Tahun</string>
+    <string name="a2">30 Tahun</string>
+    <string name="a3">35 Tahun</string>
+    <string name="a4">40 Tahun</string>
+    <string name="a5">45 Tahun</string>
+    <string name="a6">50 Tahun</string>
+    <string name="a7">55 Tahun</string>
+    <string name="a8">60 Tahun</string>
+    <string name="a9">65 Tahun</string>
+    <string name="a10">70 Tahun</string>
+    <string name="d1">100</string>
+    <string name="d2">95</string>
+    <string name="d3">93</string>
+    <string name="d4">90</string>
+    <string name="d5">88</string>
+    <string name="d6">85</string>
+    <string name="d7">83</string>
+    <string name="d8">80</string>
+    <string name="d9">78</string>
+    <string name="d10">75</string>
+    <string name="z1">170</string>
+    <string name="z2">162</string>
+    <string name="z3">157</string>
+    <string name="z4">153</string>
+    <string name="z5">149</string>
+    <string name="z6">145</string>
+    <string name="z7">140</string>
+    <string name="z8">136</string>
+    <string name="z9">132</string>
+    <string name="z10">128</string>
+    <string name="usia2">Usia</string>
+    <!-- Halaman Suhu Tubuh -->
+
+    <!-- Halaman Artikel Suhu Tubuh -->
+    <string name="judulart">Artikel Tentang Suhu Tubuh</string>
+    <string name="r1">Gejala Penyakit Dari Suhu Tubuh Yang Berubah Ubah</string>
+    <string name="r2">Demam Naik Turun Bisa Jadi Tanda 3 Penyakit</string>
+    <string name="r3">Fenomena Saat Tubuh Mendadak Panas (Hotflashes) dan Cara Mengatasinya</string>
+    <string name="r4">Penyakit Hipotermia</string>
+    <string name="r5">Kawasaki, Gejala Mirip dengan Demam Berdarah</string>
+    <string name="r6">Efek Udara Panas Terhadap Suhu Tubuh</string>
+    <string name="r7">Kepanasan Ekstrem, Hipertermia</string>
+    <string name="r8">Beberapa Penyakit yang disebabkan oleh Perubahan Suhu Tubuh</string>
+    <string name="r9">Gejala Hipotermia dan Metode Pengobatan</string>
+    <string name="r10">Suhu Tubuh Selalu Hangat Padahal Tidak Sakit</string>
+    <!-- Halaman Artikel Suhu Tubuh -->
+
+    <!-- Halaman Artikel DJ -->
+    <string name="judulartdj">Artikel Tentang Detak Jantung</string>
+    <string name="q1">Artikel 1</string>
+    <string name="q2">Artikel 2</string>
+    <string name="q3">Artikel 3</string>
+    <string name="q4">Artikel 4</string>
+    <string name="q5">Artikel 5</string>
+    <string name="q6">Artikel 6</string>
+    <string name="q7">Artikel 7</string>
+    <string name="q8">Artikel 8</string>
+    <string name="q9">Artikel 9</string>
+    <string name="q10">Artikel 10</string>
+    <string name="x1">Detak Jantung Tak Beraturan, Waspada! Itu Gejala Serangan Stroke!</string>
+    <string name="x2">Jangan Remehkan Detak Jantung yang Tiba-tiba Cepat, Ini Bahayanya!</string>
+    <string name="x3">Penyebab Detak jantung Berdebar Debar Mendadak dan Cara Mengatasinya!</string>
+    <string name="x4">Penyakit Bradikardia!</string>
+    <string name="x5">Tentang jantung berdebar atau Palpitasi Serta Pencegahannya!</string>
+    <string name="x6">Ukuran Detak Jantung Saat Istirahat dan Setelah Beraktivitas!</string>
+    <string name="x7">Gangguan Irama Jantung!</string>
+    <string name="x8">Penyakit Aritmia!</string>
+    <string name="x9">Penyebab jantung Koroner!</string>
+    <string name="x10">Jantung Koroner, Berbahayakah!</string>
+    <string name="jdart1">Artikel 1</string>
+    <string name="jdart2">Artikel 2</string>
+    <string name="jdart3">Artikel 3</string>
+    <string name="jdart4">Artikel 4</string>
+    <string name="jdart5">Artikel 5</string>
+    <string name="jdart6">Artikel 6</string>
+    <string name="jdart7">Artikel 7</string>
+    <string name="jdart8">Artikel 8</string>
+    <string name="jdart9">Artikel 9</string>
+    <string name="jdart10">Artikel 10</string>
+    <!-- Halaman Artikel DJ -->
+
+</resources>

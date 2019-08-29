@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fizhu.tele_health">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo1"
+        android:supportsRtl="true"
+        android:theme="@style/NoTitle">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".BerandaActivity" />
+        <activity android:name=".DetakJantungActivity" />
+        <activity android:name=".SuhuBadanActivity" />
+        <activity android:name=".SuhuDTActivity" />
+        <activity android:name=".DJDTActivity" />
+        <activity android:name=".DJArt1Activity" />
+        <activity android:name=".DJArt2Activity" />
+        <activity android:name=".DJArt3Activity" />
+        <activity android:name=".DJArt4Activity" />
+        <activity android:name=".DJArt5Activity" />
+        <activity android:name=".DJArt6Activity" />
+        <activity android:name=".DJArt7Activity" />
+        <activity android:name=".DJArt8Activity" />
+        <activity android:name=".DJArt9Activity" />
+        <activity android:name=".DJArt10Activity" />
+        <activity android:name=".SBArt1Activity" />
+        <activity android:name=".SBArt2Activity" />
+        <activity android:name=".SBArt3Activity" />
+        <activity android:name=".SBArt4Activity" />
+        <activity android:name=".SBArt5Activity" />
+        <activity android:name=".SBArt6Activity" />
+        <activity android:name=".SBArt7Activity" />
+        <activity android:name=".SBArt8Activity" />
+        <activity android:name=".SBArt9Activity" />
+        <activity android:name=".SBArt10Activity"></activity>
+    </application>
+
+</manifest>
