@@ -3,7 +3,7 @@
 - Informatics Engineering University of Lampung Project
 
 
-This application works with Internet fo things project and some API from thinger.io to display the chart.
+This application works with Internet of things project and some API from thinger.io to display the chart.
 
 Things that we use to make this project :
 
