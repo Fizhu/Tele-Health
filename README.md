@@ -21,6 +21,8 @@ Things that we use to make this project :
 
 ![Unila](https://trello-attachments.s3.amazonaws.com/5b8d519117286333b2404ea5/5bc6d9a5bb5aa64999a8e63f/da802e6b0bbb222deed27272ffe0e8ee/photo.jpg)
 
-© Informatics Engineering University of Lampung
+
 
 Regards, Fizhu
+
+© Informatics Engineering University of Lampung
